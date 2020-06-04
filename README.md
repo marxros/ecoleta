@@ -1,7 +1,7 @@
 <h3 align="center">Ecoleta</h3>
 
-<p align="center"> Few lines describing your project.
-    <br> Aplicação desenvolvida no NextLevelWeek
+<p align="center"> Aplicação desenvolvida no NextLevelWeek
+    <br>
 </p>
 
 ## 🧐 Sobre
